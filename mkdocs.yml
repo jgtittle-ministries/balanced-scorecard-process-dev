@@ -87,6 +87,18 @@ nav:
   - "Appendices":
       - appendices/index.md
       - "Metric Options Reference": appendices/metric-options.md
+      - "Training Decks":
+          - "Workshops": appendices/workshops.md
+          - "GQM (Goal Question Metric)": appendices/gqm.md
+          - "AHP (Analytic Hierarchy Process)": appendices/ahp.md
+          - "Decision Matrix": appendices/decision-matrix.md
+          - "Metrics Definition Document": appendices/metrics-definition.md
+          - "Limits and Scoring": appendices/limits-and-scoring.md
+          - "SPC (Statistical Process Control)": appendices/spc.md
+          - "Vital Signs Report": appendices/vital-signs-report.md
+          - "Implementation Plan": appendices/implementation-plan.md
+          - "Organizational Change Tools": appendices/accelerating-change.md
+      - "Lessons Learned from Training Delivery": appendices/lessons-learned.md
   - "About":
       - about/index.md
       - "How This Book Came to Be": about/how-this-book-came-to-be.md
