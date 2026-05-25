@@ -1,0 +1,93 @@
+site_name: "The Balanced Scorecard Process — DEV PREVIEW"
+site_description: "[DEV PREVIEW] A book on a methodology for surfacing, measuring, and balancing the competing values an organization is actually operating under — by John G. Tittle"
+site_author: John G. Tittle
+site_url: https://jgtittle-ministries.github.io/balanced-scorecard-process-dev/
+repo_url: https://github.com/jgtittle-ministries/balanced-scorecard-process-dev
+repo_name: jgtittle-ministries/balanced-scorecard-process-dev
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Source Serif Pro
+    code: Roboto Mono
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.mark
+  - pymdownx.critic
+  - pymdownx.keys
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+
+validation:
+  nav:
+    omitted_files: ignore
+    not_found: warn
+  links:
+    not_found: warn
+
+nav:
+  - Home: index.md
+  - Preface: preface.md
+  - "Chapters":
+      - "1. Where's the Pain?": chapter-01-wheres-the-pain.md
+      - "2. The Process": chapter-02-process-description.md
+      - "3. Case Studies": chapter-03-case-studies.md
+      - "4. Implementation Guidance": chapter-04-implementation-guidance.md
+      - "5. Looking Forward": chapter-05-looking-forward.md
+  - "Appendices":
+      - appendices/index.md
+      - "Metric Options Reference": appendices/metric-options.md
+  - "About":
+      - about/index.md
+      - "How This Book Came to Be": about/how-this-book-came-to-be.md
+      - "Contributing": about/contributing.md
