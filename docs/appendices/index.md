@@ -8,7 +8,7 @@ Supporting reference material for the Balanced Scorecard Process. Each appendix 
 
 ## Reference material
 
-- **[Metric Options Reference](metric-options.md)** — *coming soon.* A catalog of metric options across the common BSCP categories (commitments, productivity, quality, future value, etc.), with notes on when each metric is useful and what behaviors it tends to drive. Drawn from the 2015 sanitized appendix to the working drafts.
+- **[Metric Options Reference](metric-options.md)** — A catalog of ~35 fully-specified metrics drawn from production BSCP engagements at three sanitized organizations. Each entry shows the BSCP specification template in detail — definition, business purpose, target, algorithm, base measures with inclusions and exclusions, data flow, aggregation rules, and scoring rules with weights. Use as a reference when defining metrics for a BSCP engagement of your own.
 
 ## Training material
 
