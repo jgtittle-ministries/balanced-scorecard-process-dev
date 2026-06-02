@@ -9,6 +9,7 @@ Supporting reference material for the Balanced Scorecard Process. Each appendix 
 ## Reference material
 
 - **[Metric Options Reference](metric-options.md)** — A catalog of ~35 fully-specified metrics drawn from production BSCP engagements at three sanitized organizations. Each entry shows the BSCP specification template in detail — definition, business purpose, target, algorithm, base measures with inclusions and exclusions, data flow, aggregation rules, and scoring rules with weights. Use as a reference when defining metrics for a BSCP engagement of your own.
+- **[Interrogating Reality — Surfacing the Undiscussables](interrogating-reality.md)** — A facilitation practice for surfacing the issues an organization already knows but will not say aloud — the discipline that makes "Where's the Pain?" honest and the competing-values weighting real. Covers the preconditions (especially handling power in the room), the method, the confidential-interview fallback, and where it connects across the BSCP.
 
 ## Training material
 

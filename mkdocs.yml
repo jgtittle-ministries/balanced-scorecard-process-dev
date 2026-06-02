@@ -87,6 +87,7 @@ nav:
   - "Appendices":
       - appendices/index.md
       - "Metric Options Reference": appendices/metric-options.md
+      - "Interrogating Reality (Surfacing the Undiscussables)": appendices/interrogating-reality.md
       - "Training Decks":
           - "Workshops": appendices/workshops.md
           - "GQM (Goal Question Metric)": appendices/gqm.md
