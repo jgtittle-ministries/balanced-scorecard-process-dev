@@ -591,6 +591,7 @@ The following methods are used to derive baselines for each metric. The method t
 
 - Use the average of the highest and lowest possible survey score as the 75% credit point – center of C range
 - Assign the control limits to the maximum and minimum survey values.
+- For **customer- or client-satisfaction** surveys specifically, the SERVQUAL instrument (Parasuraman, Zeithaml, and Berry) is a proven structure I have used repeatedly. It measures five dimensions of perceived service quality — Reliability, Responsiveness, Assurance, Empathy, and Tangibles — as the **gap between what the customer expected and what they perceived they received**, with the dimensions weighted by customer-assigned importance. The gap scores point directly at where the service is falling short of expectation, which is exactly the diagnostic a Client Satisfaction metric is meant to surface on the scorecard.
 
 ## Specification Sheets
 
